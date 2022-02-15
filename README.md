@@ -1,7 +1,7 @@
-# FnKit
+# funkin' (Work in Progress)
 
 Get the serverless experience without the vendor lock-in.
-With FnKit, you have the same fast development experience like with other FaaS frameworks but can run your code anywhere.
+With funkin', you have the same fast development experience FaaS frameworks provide but can run your code anywhere with next to no setup.
 
 Deploy your app to production with one command:
 

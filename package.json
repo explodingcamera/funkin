@@ -1,5 +1,5 @@
 {
-  "name": "@explodingcamera/ts-starter",
+  "name": "funkin",
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
@@ -39,5 +39,8 @@
     "github": {
       "release": true
     }
+  },
+  "dependencies": {
+    "ship-es": "0.2.1"
   }
 }
