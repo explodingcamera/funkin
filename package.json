@@ -22,12 +22,12 @@
     "preversion": "npm run build"
   },
   "devDependencies": {
-    "@explodingcamera/eslint-config": "^21.0.1",
-    "@types/node": "^17.0.16",
-    "@types/tap": "^15.0.5",
-    "esbuild": "^0.14.21",
-    "eslint": "^8.8.0",
-    "release-it": "^14.12.4",
+    "@explodingcamera/eslint-config": "^21.1.0",
+    "@types/node": "^17.0.21",
+    "@types/tap": "^15.0.6",
+    "esbuild": "^0.14.23",
+    "eslint": "^8.9.0",
+    "release-it": "^14.12.5",
     "tap": "^15.1.6",
     "ts-node": "^10.5.0",
     "typescript": "^4.5.5"
